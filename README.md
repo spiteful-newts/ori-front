@@ -13,7 +13,7 @@
 
 ## Technology  stack
 
-- [Preact](https://preactjs.com) as a main framework
+- [Preact](https://preactjs.com) as a main JS framework
 - [Goober](https://github.com/cristianbote/goober) for CSS in JS
 
 ## CLI Commands
