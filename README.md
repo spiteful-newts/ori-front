@@ -1,5 +1,9 @@
 # Ori front
 
+## Prerequisite
+
+[Node.js](https://nodejs.org/en/) 14.16.1 or later
+
 ## CLI Commands
 
 ``` bash
