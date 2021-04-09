@@ -7,10 +7,9 @@
   - [Brew](https://brew.sh) (Mac OS only. On a Windows use `curl` / `wget`, on a Linux  you already have awesome `apt`)
   - [Git](https://git-scm.com/download)
   - Code Editor, your prefered, but [VSCode](https://code.visualstudio.com) suits better
-  - Node Version Manager, you can use any, but my reccomendation for you is [n](https://github.com/tj/n)
 </details>
-[Node.js](https://nodejs.org/en/) 14.16.1 or later
 
+[Node.js](https://nodejs.org/en/) 14.16.1 or later. Better install node via Node.js version manager. You can use any, but my reccomendation for you is [n](https://github.com/tj/n)
 
 ## Technology  stack
 
