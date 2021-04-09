@@ -7,5 +7,16 @@
 			"path": "../ori-cms"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open index.html",
+				"file": "/Users/sea/Repositories/ori-cms/extensions/documentation/public/index.html"
+			}
+		]
+	}
 }
