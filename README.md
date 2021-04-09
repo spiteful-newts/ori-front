@@ -4,6 +4,12 @@
 
 [Node.js](https://nodejs.org/en/) 14.16.1 or later
 
+
+## Technology  stack
+
+- [Preact](https://preactjs.com) as a main framework
+- [Goober](https://github.com/cristianbote/goober) for CSS in JS
+
 ## CLI Commands
 
 ``` bash
