@@ -1,7 +1,14 @@
 # Ori front
 
 ## Prerequisite
-
+<details>
+  <summary>If your OS is not setted up for Development</summary>
+  
+  - [Brew](https://brew.sh) (Mac OS only. On a Windows use `curl` / `wget`, on a Linux  you already have awesome `apt`)
+  - [Git](https://git-scm.com/download)
+  - Code Editor, your prefered, but [VSCode](https://code.visualstudio.com) suits better
+  - Node Version Manager, you can use any, but my reccomendation for you is [n](https://github.com/tj/n)
+</details>
 [Node.js](https://nodejs.org/en/) 14.16.1 or later
 
 
