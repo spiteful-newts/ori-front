@@ -7,7 +7,10 @@
       "path": "../ori-cms"
     }
   ],
-  "settings": {},
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
   "launch": {
     "version": "0.2.0",
     "configurations": [
