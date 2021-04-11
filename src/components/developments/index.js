@@ -1,7 +1,6 @@
 
 import { h } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
-import { Link } from 'preact-router/match';
 
 const Developments = () => {
   const [developments, setDevelopments] = useState(null);
@@ -14,7 +13,7 @@ const Developments = () => {
   }, []);
   return (
     <section>
-      { developments?.map(function (developments) {
+      { developments?.map((developments) => {
         return (
           <>
             <h2>{developments.Heading}</h2>
