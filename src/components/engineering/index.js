@@ -1,6 +1,5 @@
 import { h } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
-import { Link } from 'preact-router/match';
 
 const Engineering = () => {
   const [engineerings, setEngineerings] = useState(null);
@@ -12,8 +11,8 @@ const Engineering = () => {
       });
   }, []);
   return (
-    <section class={style.header}>
-      { engineerings?.map(function (engineering) {
+    <section>
+      { engineerings?.map((engineering) => {
         return (
           <>
             <h2>{engineering.Heading}</h2>
