@@ -1,5 +1,8 @@
 import { h } from 'preact';
 import { Router } from 'preact-router';
+import { setup } from 'goober';
+
+setup(h);
 
 import Header from './header';
 
